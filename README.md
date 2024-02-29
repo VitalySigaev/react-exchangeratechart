@@ -1,1 +1,1 @@
-# react-exchangeRateChart
+## Тестовое от Газпронефть. Находится в ветке master.
